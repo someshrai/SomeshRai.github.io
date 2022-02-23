@@ -93,8 +93,8 @@
           <div class="card-body">
             <div class="h4 mt-0 title">Basic Information</div>
             <div class="row">
-              <div class="col-sm-4"><strong class="text-uppercase">Birth Year:</strong></div>
-              <div class="col-sm-8">1993</div>
+              <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
+              <div class="col-sm-8">29</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
@@ -396,7 +396,7 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>8 Months</p>
+            <p>April 2021 - Present</p>
             <div class="h5">Dept. of Library and Information Science, BHU Varanasi</div>
           </div>
         </div>
@@ -412,7 +412,7 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>2 Years</p>
+            <p>April 2019 - April 2021</p>
             <div class="h5">Dept. of Library and Information Science, BHU Varanasi</div>
           </div>
         </div>
@@ -428,8 +428,8 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>6 Months</p>
-            <div class="h5">Govt. Degree College Saikheda</div>
+            <p>Sept 2018 - April 2019</p>
+            <div class="h5">Govt. Degree College Saikheda, MP</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -444,7 +444,7 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>1 Year</p>
+            <p>August 2015 - July 2016</p>
             <div class="h5">K K Polytechnic</div>
           </div>
         </div>
@@ -609,7 +609,7 @@
           <div class="card-body">
             <div class="h5">Science, Mathematics & Sanskrit; Physics, Chemistry and Mathematics</div>
             <p class="category" href="https://upmsp.edu.in/">Board of High School and Intermediate Education, Allahabad</p>
-            <p></p>
+            <p>...................................................</p>
           </div>
         </div>
       </div>
