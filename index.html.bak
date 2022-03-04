@@ -403,7 +403,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Senior Research Fellow</div>
-            <p>.........................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -419,7 +419,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Junior Research Fellow</div>
-            <p>.........................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -435,7 +435,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">College Librarian</div>
-            <p>...................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -451,7 +451,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Lecturer, Electrical Engineering</div>
-            <p>................</p>
+            <p></p>
 			</div>
 		</div>
 		</div>
@@ -473,7 +473,7 @@
           <div class="card-body">
             <div class="h5">Post Graduate Diploma in Operations Management</div>
             <p class="category" href="http://ignou.ac.in/ignou/aboutignou/school/sol/programmes">Indira Gandhi National Open University, New Delhi</p>
-            <p>..................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -490,7 +490,7 @@
           <div class="card-body">
             <div class="h5">Master of Science in Financial Engineering</div>
             <p class="category" href="https://www.wqu.org/programs/mscfe/">World Quant University, New Orleans, LA 70170</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -507,7 +507,7 @@
           <div class="card-body">
             <div class="h5">Post Graduate Diploma in Intellectual Property Rights</div>
             <p class="category" href="http://ignou.ac.in/ignou/aboutignou/school/sol/programmes">Indira Gandhi National Open University, New Delhi</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -524,7 +524,7 @@
           <div class="card-body">
             <div class="h5">Diploma in Statistics and Computing</div>
             <p class="category" href="https://www.bhu.ac.in/science/statistics/">Banaras Hindu University, Varanasi</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -541,7 +541,7 @@
           <div class="card-body">
             <div class="h5">Doctor of Philosophy in Library & Information Science</div>
             <p class="category" href="https://www.bhu.ac.in/arts/lis/">Banaras Hindu University, Varanasi</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -558,7 +558,7 @@
           <div class="card-body">
             <div class="h5">Master of Computer Science</div>
             <p class="category" href="http://www.uprtou.ac.in/">U.P.Rajarshi Tandon Open University, Prayagraj</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -575,7 +575,7 @@
           <div class="card-body">
             <div class="h5">Master of Library & Information Science</div>
             <p class="category" href="https://www.bhu.ac.in/arts/lis/">Banaras Hindu University, Varanasi</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
@@ -592,7 +592,7 @@
           <div class="card-body">
             <div class="h5">Bachelor of Technology in Electrical Engineering</div>
             <p class="category" href="https://www.nits.ac.in/">National Institute of Technology Silchar, Assam</p>
-            <p>...................................................</p>
+            <p></p>
           </div>
         </div>
       </div>
